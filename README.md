@@ -19,7 +19,5 @@ yarn build
 ## Resources
 
 - [CodeSandbox Projects — Docs](https://codesandbox.io/docs/projects)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
 - [Remix — GitHub](https://github.com/remix-run/remix)
 - [Remix — Docs](https://remix.run/docs)
-- [Remix — Discord](https://rmx.as/discord)
